@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774140149541",
+    "project_id": "socialmediaapp-1dfbd",
+    "storage_bucket": "socialmediaapp-1dfbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774140149541:android:cf1d1084942dd0c98a24cc",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsk2JphlsyiID__icdP2kgMCSj1MPecfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774140149541:android:a8417f689f037f198a24cc",
+        "android_client_info": {
+          "package_name": "com.example.social_media_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsk2JphlsyiID__icdP2kgMCSj1MPecfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
